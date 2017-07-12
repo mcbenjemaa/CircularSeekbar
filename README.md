@@ -21,7 +21,7 @@ Add it in your root build.gradle at the end of repositories:
 
 Step 3.  add xml on your layout 
 
-<octadev.circularseekbar.CircularSeekBar
+		<octadev.circularseekbar.CircularSeekBar
                 android:id="@+id/circularSeekBar1"
                 android:layout_width="92dp"
                 android:layout_centerInParent="true"
@@ -35,6 +35,7 @@ Step 3.  add xml on your layout
                 app:pointer_halo_color="@android:color/transparent"
                 android:layout_height="92dp"
                 />
+
                 
   
 
