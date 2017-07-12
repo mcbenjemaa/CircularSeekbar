@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/medchiheb/AndroidStudioProjects/Salek/circularseekbar/src/main/assets"/><source path="/home/medchiheb/AndroidStudioProjects/Salek/circularseekbar/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/medchiheb/AndroidStudioProjects/Salek/circularseekbar/src/debug/assets"/></dataSet></merger>

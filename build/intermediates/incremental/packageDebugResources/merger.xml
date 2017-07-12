@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/home/medchiheb/AndroidStudioProjects/Salek/circularseekbar/src/main/res"/><source path="/home/medchiheb/AndroidStudioProjects/Salek/circularseekbar/build/generated/res/rs/debug"/><source path="/home/medchiheb/AndroidStudioProjects/Salek/circularseekbar/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/home/medchiheb/AndroidStudioProjects/Salek/circularseekbar/src/debug/res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/home/medchiheb/AndroidStudioProjects/Salek/circularseekbar/src/main/res"><file path="/home/medchiheb/AndroidStudioProjects/Salek/circularseekbar/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">CircularSeekBar</string></file><file path="/home/medchiheb/AndroidStudioProjects/Salek/circularseekbar/src/main/res/values/attrs.xml" qualifiers=""><declare-styleable name="CircularSeekBar">
+        <attr format="integer" name="Circularprogress"/>
+        <attr format="integer" name="max"/>
+        <attr format="boolean" name="move_outside_circle"/>
+        <attr format="boolean" name="maintain_equal_circle"/>
+        <attr format="boolean" name="use_custom_radii"/>
+        <attr format="boolean" name="lock_enabled"/>
+        <attr format="dimension" name="circle_x_radius"/>
+        <attr format="dimension" name="circle_y_radius"/>
+        <attr format="dimension" name="circle_stroke_width"/>
+        <attr format="dimension" name="pointer_radius"/>
+        <attr format="dimension" name="pointer_halo_width"/>
+        <attr format="dimension" name="pointer_halo_border_width"/>
+        <attr format="color" name="circle_color"/>
+        <attr format="color" name="circle_progress_color"/>
+        <attr format="color" name="pointer_color"/>
+        <attr format="color" name="pointer_halo_color"/>
+        <attr format="color" name="pointer_halo_color_ontouch"/>
+        <attr format="integer" name="pointer_alpha_ontouch"/>
+        <attr format="float" name="start_angle"/>
+        <attr format="float" name="end_angle"/>
+        <attr format="color" name="circle_fill"/>
+    </declare-styleable></file></source><source path="/home/medchiheb/AndroidStudioProjects/Salek/circularseekbar/build/generated/res/rs/debug"/><source path="/home/medchiheb/AndroidStudioProjects/Salek/circularseekbar/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/home/medchiheb/AndroidStudioProjects/Salek/circularseekbar/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="CircularSeekBar"><attr format="integer" name="Circularprogress"/><attr format="integer" name="max"/><attr format="boolean" name="move_outside_circle"/><attr format="boolean" name="maintain_equal_circle"/><attr format="boolean" name="use_custom_radii"/><attr format="boolean" name="lock_enabled"/><attr format="dimension" name="circle_x_radius"/><attr format="dimension" name="circle_y_radius"/><attr format="dimension" name="circle_stroke_width"/><attr format="dimension" name="pointer_radius"/><attr format="dimension" name="pointer_halo_width"/><attr format="dimension" name="pointer_halo_border_width"/><attr format="color" name="circle_color"/><attr format="color" name="circle_progress_color"/><attr format="color" name="pointer_color"/><attr format="color" name="pointer_halo_color"/><attr format="color" name="pointer_halo_color_ontouch"/><attr format="integer" name="pointer_alpha_ontouch"/><attr format="float" name="start_angle"/><attr format="float" name="end_angle"/><attr format="color" name="circle_fill"/></declare-styleable></configuration></mergedItems></merger>
